@@ -1,0 +1,4 @@
+Amadeusz|Zings|49|66
+Wojciech|Kowalczyk|45|81
+dubaj|Koza|29|72
+Tobiasz|Witalis|21|83
